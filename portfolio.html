@@ -87,7 +87,11 @@
           font-size: 13px;
           margin: 0;
           text-align: center;
+          padding-top: 1%;
         }
+
+        .card .caption a{
+          text-align: center;}
         
         .h1 {
           white-space: nowrap;
@@ -97,6 +101,11 @@
         .card img:hover {
           opacity: 0.75;
           transition:  0.5s;
+        }
+
+        center {
+          text-align: center;
+  
         }
         
         /*If the navigation bar is not visible when you use the position: fixed property, 
@@ -110,12 +119,19 @@
         nav {
           background-color: #FBF5E7;
           position: fixed;
-          top: 3.5%;
-          left: 3.5%;
+          top: 0%;
+          padding-top: 1.5%;
+          padding-left: 1.5%;
           z-index: 1;
           display: flex;
           flex-wrap: nowrap;
           margin-right: 1%;
+
+          /*cover the entire top side*/
+          width: 92.5%;
+          height: 5%;
+          border-radius: 5px;
+          
           
         }
 
@@ -139,7 +155,6 @@
           text-decoration: none;
           font-size: 10px;
           font-family: 'Open Sans', sans-serif;
-          color: #000;
           letter-spacing: 2.5px;
           transition: .5s;
         }
@@ -162,7 +177,26 @@
       </ul>
     </nav>
     <h1 class="header">Portfolio</h1>
+
+
+
+    <!-- Cards-->
+
     <div class="cards">
+
+      <div class="card">
+        <a href="https://stockpredictor.streamlit.app/"><img src="assets\img\stocks.jpg" alt="Project 3"></a>
+        <div class="caption" style="text-align:center">
+          <div style="margin-bottom: 2%">
+            <a style=" padding-right:2.5%">Stock Predictor</a>
+            <a href="https://github.com/atapia27/Stock-Predictor">Github</a>
+          </div>
+          <p>Extracts data from YFinance alongside Alpha Vantage API. The program allows the user to 
+            search for a stock to displays the stock's relevant information, such as the stock's daily high and low, as well as predict future trends.            
+          </p>
+        </div>
+      </div>
+
         <div class="card">
           <a href="https://github.com/atapia27/TVScriptor"><img src="assets\img\aiScript.jpg" alt="Project 1"></a>
           <div class="caption">
@@ -172,6 +206,7 @@
               pre-existing script, and watch the magic happen. .</p>
           </div>
         </div>
+
         <div class="card">
           <a href="#"><img src="assets\img\chat.png" alt="Project 2"></a>
           <div class="caption">
@@ -181,18 +216,15 @@
               saves a chat log. Built using HTML, CSS, Javascript, and SQL.</p>
           </div>
         </div>
-        <div class="card">
-          <a href="https://github.com/atapia27/Stock-Market-Data-Extractor"><img src="assets\img\stocks.jpg" alt="Project 3"></a>
-          <div class="caption">
-            <a href="stock.html"><h2>Stock Market Data Extractor</h2></a>
-            <p>Extracts data from the Alpha Vantage API and displays it using tabwriter. The program allows the user to 
-              search for a stock and displays the stock's current price, the stock's daily high, the stock's daily low, 
-              the stock's daily volume, and the stock's daily open. 
-            </p>
-          </div>
-        </div>
-      </div>
 
+
+
+
+
+
+
+
+      </div>
       <div class="cards">
         <div class="card">
           <a href="https://github.com/atapia27/KidsKorner"><img src="assets\img\kidzkorner.jpg" alt="Project 4"></a>
