@@ -10,8 +10,8 @@ export default {
           imageUrl: 'https://static.thenounproject.com/png/3085408-200.png',
           status: 'My personal website, displaying skills, projects, and more.',
           tech: 'Vue, Tailwind, JS',
-          github: 'https://github.com/atapia27',
-          demo: 'null'
+          github: 'https://github.com/atapia27/atapia27.github.io',
+          demo: 'https://alejandro-tapia-portfolio.netlify.app/'
         },
         {
           id: 2,
