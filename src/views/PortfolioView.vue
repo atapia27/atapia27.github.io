@@ -29,7 +29,7 @@ export default {
           status: 'Web messaging platform with login functionality, conversation history tracking, text & image functionality, and profile customization',
           tech: 'React, , Firebase, JavaScript, TypeScript, Python',
           github: 'https://github.com/atapia27/Alejandro_Tapia_ChatApplication',
-          demo: 'https://chat-application-alejandro-tapia.netlify.app/login'
+          demo: 'https://chat-application-alejandro-tapia.netlify.app'
         },
         {
           id: 4,
