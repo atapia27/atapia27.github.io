@@ -28,8 +28,8 @@ export default {
           imageUrl: 'https://img.freepik.com/premium-vector/chat-app-logo-design-template-can-be-used-icon-chat-application-logo_605910-1724.jpg',
           status: 'Web messaging platform with login functionality, conversation history tracking, text & image functionality, and profile customization',
           tech: 'React, , Firebase, JavaScript, TypeScript, Python',
-          github: 'null',
-          demo: 'null'
+          github: 'https://github.com/atapia27/Alejandro_Tapia_ChatApplication',
+          demo: 'https://chat-application-alejandro-tapia.netlify.app/login'
         },
         {
           id: 4,
