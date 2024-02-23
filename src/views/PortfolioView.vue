@@ -18,7 +18,7 @@ export default {
           id: 2,
           name: 'Chat Application',
           imageUrl: 'https://i.ibb.co/d5Th0xh/chat.png',
-          status: 'Study tool providing customizable music, ambient sounds, and themes, enhancing productivity and focus for users during study sessions',
+          status: 'Web messaging platform with login functionality, conversation history tracking, text & image functionality, and profile customization using React, Firebase, JavaScript, and TypeScript',
           tech: 'React, Firebase, JavaScript, TypeScript, Python',
           github: 'https://github.com/atapia27/Alejandro_Tapia_ChatApplication',
           demo: 'https://chat-application-alejandro-tapia.netlify.app'
