@@ -4,41 +4,42 @@ export default {
     return {
       activeTab: 1,
       items: [
+
         {
           id: 1,
-          name: 'Personal Website',
-          imageUrl: 'https://static.thenounproject.com/png/3085408-200.png',
-          status: 'My personal website, displaying skills, projects, and more.',
-          tech: 'Vue, Tailwind, JS',
-          github: 'https://github.com/atapia27/atapia27.github.io',
-          demo: 'https://alejandro-tapia-portfolio.netlify.app/'
+          name: 'StudyHub',
+          imageUrl: 'https://i.ibb.co/8j32BJx/StudyHub.png',
+          status: 'Study tool providing customizable music, ambient sounds, and themes, enhancing productivity and focus for users during study sessions',
+          tech: 'React, Typescript, Tailwind, MobX, Vitest',
+          github: 'https://github.com/atapia27/studyHub', 
+          demo: 'https://studyhub-alejandro-tapia.netlify.app/'
         },
         {
           id: 2,
-          name: 'ADHD Mobile Application',
-          imageUrl: 'https://t3.ftcdn.net/jpg/05/31/34/48/360_F_531344829_bKiejxS8VkR7h18myjE1oACyFmXuXabM.jpg',
-          status: 'App using psychology-backed methods to assist ADHD individuals in effectively managing goals, time, and habits to achieve success',
-          tech: 'React Native, TypeScript, Tailwind, Python',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 3,
           name: 'Chat Application',
-          imageUrl: 'https://img.freepik.com/premium-vector/chat-app-logo-design-template-can-be-used-icon-chat-application-logo_605910-1724.jpg',
-          status: 'Web messaging platform with login functionality, conversation history tracking, text & image functionality, and profile customization',
-          tech: 'React, , Firebase, JavaScript, TypeScript, Python',
+          imageUrl: 'https://i.ibb.co/d5Th0xh/chat.png',
+          status: 'Study tool providing customizable music, ambient sounds, and themes, enhancing productivity and focus for users during study sessions',
+          tech: 'React, Firebase, JavaScript, TypeScript, Python',
           github: 'https://github.com/atapia27/Alejandro_Tapia_ChatApplication',
           demo: 'https://chat-application-alejandro-tapia.netlify.app'
         },
         {
-          id: 4,
+          id: 3,
           name: 'Stock Predictor',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/4882/4882559.png',
           status: 'Web application allowing users to search for companys relevant stock information, predicting future trends, and generating forecast plots components for up to 4 years',
           tech: 'Python, TensorFlow, Prophet, API',
           github: 'https://github.com/atapia27/Stock-Predictor',
           demo: 'null'
+        },
+        {
+          id: 4,
+          name: 'Personal Website',
+          imageUrl: 'https://i.ibb.co/5sWnrrB/My-Website.png',
+          status: 'My personal website, displaying skills, projects, and more.',
+          tech: 'Vue, Tailwind, JS',
+          github: 'https://github.com/atapia27/atapia27.github.io',
+          demo: 'https://alejandro-tapia-portfolio.netlify.app/'
         },
       ]
     };
