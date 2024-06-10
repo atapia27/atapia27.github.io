@@ -27,10 +27,10 @@ export default {
           id: 3,
           name: 'Stock Predictor',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/4882/4882559.png',
-          status: 'Web application allowing users to search for companys relevant stock information, predicting future trends, and generating forecast plots components for up to 4 years',
-          tech: 'Python, TensorFlow, Prophet, API',
+          status: 'Web application allowing users to search for company relevant stock information, predicting future trends, and generating forecast plots components for up to 4 years',
+          tech: 'Python, TensorFlow, Prophet API',
           github: 'https://github.com/atapia27/Stock-Predictor',
-          demo: 'null'
+          demo: 'https://stockpredictor.streamlit.app/'
         },
         {
           id: 4,
