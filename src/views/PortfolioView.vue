@@ -8,7 +8,7 @@ export default {
         {
           id: 1,
           name: 'StudyHub',
-          imageUrl: 'https://i.ibb.co/8j32BJx/StudyHub.png',
+          imageUrl: '/img/StudyHub.png',
           status: 'Study tool providing customizable music, ambient sounds, and themes, enhancing productivity and focus for users during study sessions',
           tech: 'React, Typescript, Tailwind, MobX, Vitest',
           github: 'https://github.com/atapia27/studyHub', 
@@ -17,7 +17,7 @@ export default {
         {
           id: 2,
           name: 'Chat Application',
-          imageUrl: 'https://i.ibb.co/d5Th0xh/chat.png',
+          imageUrl: '/img/Chat.png',
           status: 'Web messaging platform with login functionality, conversation history tracking, text & image functionality, and profile customization using React, Firebase, JavaScript, and TypeScript',
           tech: 'React, Firebase, JavaScript, TypeScript, Python',
           github: 'https://github.com/atapia27/Alejandro_Tapia_ChatApplication',
@@ -26,7 +26,7 @@ export default {
         {
           id: 3,
           name: 'Stock Predictor',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/4882/4882559.png',
+          imageUrl: '/img/Stock.png',
           status: 'Web application allowing users to search for company relevant stock information, predicting future trends, and generating forecast plots components for up to 4 years',
           tech: 'Python, TensorFlow, Prophet API',
           github: 'https://github.com/atapia27/Stock-Predictor',
@@ -35,7 +35,7 @@ export default {
         {
           id: 4,
           name: 'Personal Website',
-          imageUrl: 'https://i.ibb.co/5sWnrrB/My-Website.png',
+          imageUrl: '/img/Portfolio.png',
           status: 'My personal website, displaying skills, projects, and more.',
           tech: 'Vue, Tailwind, JS',
           github: 'https://github.com/atapia27/atapia27.github.io',
