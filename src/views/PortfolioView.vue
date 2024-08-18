@@ -7,6 +7,15 @@ export default {
 
         {
           id: 1,
+          name: 'Social Video Platform',
+          imageUrl: '/img/LearnWell.png',
+          status: 'Full Stack social media app featuring video uploads, feed browsing, topic filtering, user profiles, and real-time commenting',
+          tech: 'Next.js, Zustand, Tailwind, FastAPI, Python, SQLAlchemy',
+          github: 'https://github.com/atapia27/Social-App', 
+          demo: 'https://social-app-video-atapia.netlify.app/'
+        },        
+        {
+          id: 2,
           name: 'StudyHub',
           imageUrl: '/img/StudyHub.png',
           status: 'Study tool providing customizable music, ambient sounds, and themes, enhancing productivity and focus for users during study sessions',
@@ -15,7 +24,7 @@ export default {
           demo: 'https://studyhub-alejandro-tapia.netlify.app/'
         },
         {
-          id: 2,
+          id: 3,
           name: 'Chat Application',
           imageUrl: '/img/Chat.png',
           status: 'Web messaging platform with login functionality, conversation history tracking, text & image functionality, and profile customization using React, Firebase, JavaScript, and TypeScript',
@@ -24,7 +33,7 @@ export default {
           demo: 'https://chat-application-alejandro-tapia.netlify.app'
         },
         {
-          id: 3,
+          id: 4,
           name: 'Stock Predictor',
           imageUrl: '/img/Stock.png',
           status: 'Web application allowing users to search for company relevant stock information, predicting future trends, and generating forecast plots components for up to 4 years',
@@ -33,7 +42,7 @@ export default {
           demo: 'https://stockpredictor.streamlit.app/'
         },
         {
-          id: 4,
+          id: 5,
           name: 'Personal Website',
           imageUrl: '/img/Portfolio.png',
           status: 'My personal website, displaying skills, projects, and more.',
