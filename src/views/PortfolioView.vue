@@ -8,7 +8,7 @@ export default {
         {
           id: 1,
           name: 'Social Video Platform',
-          imageUrl: '/img/LearnWell.png',
+          imageUrl: '/img/SocialApp.png',
           status: 'Full Stack social media app featuring video uploads, feed browsing, topic filtering, user profiles, and real-time commenting',
           tech: 'Next.js, Zustand, Tailwind, FastAPI, Python, SQLAlchemy',
           github: 'https://github.com/atapia27/Social-App', 
