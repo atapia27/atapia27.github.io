@@ -194,7 +194,7 @@ export default {
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
             &nbsp; &nbsp; &nbsp; 
-            Greetings! I'm Alejandro Tapia, a dedicated Software Engineer based in Los Angeles, CA, 
+            Greetings! I'm Alejandro Tapia, a dedicated Software Engineer based in Seattle, WA 
             with a keen interest in exploring opportunities elsewhere. 
             A proud graduate of UCLA, I hold a Bachelor's degree in Cognitive Science with a Specialization in Computing, 
             a field that perfectly blends my passions for programming, psychology, and mathematics.
